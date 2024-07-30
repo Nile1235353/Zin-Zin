@@ -125,39 +125,3 @@ fs3{
 }
 
 /* Divided by Law */
-
-@media (max-width: 828px){
-    .firstcolumn {
-        margin: 0 auto;
-    }
-
-    .respon {
-        width: 20%;
-    }
-}
-
-@media (max-width: 732px){
-    .respon {
-        width: 100%;
-    }
-}
-
-@media (max-width: 613px){
-    .secondcolumn {
-        width: 100%;
-    }
-
-    .firstcolumn {
-        width: 100%;
-    }
-}
-
-@media (max-width: 282px){
-    .secondcolumn {
-        width: 100%;
-    }
-
-    .firstcolumn {
-        width: 100%;
-    }
-}
